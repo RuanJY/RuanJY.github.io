@@ -7,7 +7,7 @@ Zhejiang University
 
 Email: jy_ruan AT 163.com
 
-I am a reaearcher focus on robotics field. Currently, I serve as a research assistant in the Sevil Lab in of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
+I am a researcher focus on robotics field. Currently, I serve as a research assistant in the Sevil Lab in of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
 
 # Research Interests
 Robotics, SLAM, 3D reconstruction, UAV, Autonomous Driving
@@ -30,14 +30,14 @@ Laser-based SLAM approach based on regionalized Gaussian process map reconstruct
 Autonomous Robots, 2020.
 
 # Projects
-### 2D lidar SLAM based on Gaussian Process, 11/2018~current. 
+### 2D lidar SLAM based on Gaussian Process, 11/2018~10/2019. 
 We proposed a novel 2D lidar SLAM using Gaussian Process (GP), a continuous representation with the ability to make inference with uncertainty, to model the structures in the environment. The method outperforms a classical method, Gmapping, in both accuracy and efficiency.
 
 ### 3D lidar SLAM based on Gaussian Process, 06/2019~current.
 In more complex 3D scenarios, the state estimation of GP-SLAM was redesigned and the training process of GP was accelerated with the insight of such an interpolation-based registration method. A two-thread framework was also designed for large-scale 3D mapping tasks. With higher efficiency and robustness with the sparse point cloud, our system produces a consistent map and outperforms A-LOAM and Lego-LOAM when working with light-weight lidar sensors.
 
-### Various MAV 
-portable fix-wing drones for detecting, transportation VTOL vehicles, aeromodelling glider, solar-powered fix-wing UAV weight less than 3 kg, success to flight without any energy storing device. 
+### Various MAVs 
+Target on overcoming different shortcomings of MAV, various MAV were built. Multicoper with 5G module for inspection, portable fix-wing drones for detecting, transportation VTOL vehicles, aeromodelling glider, solar-powered fix-wing UAV without energy storing device. 
 
 
 ## Awards
