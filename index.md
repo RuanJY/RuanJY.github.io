@@ -7,27 +7,19 @@ Zhejiang University
 
 Email: jy_ruan AT 163.com
 
-I am a researcher focus on robotics field. Currently, I serve as a research assistant in the Sevil Lab in of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
+I am a researcher focus on robotics. Currently, I serve as a research assistant in the Sevil Lab in Control System Colleage(CSC) of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
 
 # Research Interests
 Robotics, SLAM, 3D reconstruction, UAV, Autonomous Driving
 
 # Publications
-[1] Jianyuan Ruan, Bo Li, Wang Yingqiang and Zhou Fan*, GP-SLAM+: real-time 3D lidar
-SLAM based on improved regionalized Gaussian process map reconstruction, accepted by 2020
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. pre-print
-available at: https://arxiv.org/abs/2008.00644
+[1] Jianyuan Ruan, Bo Li, Wang Yingqiang and Zhou Fan*, GP-SLAM+: real-time 3D lidar SLAM based on improved regionalized Gaussian process map reconstruction, accepted by 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. pre-print available at: https://arxiv.org/abs/2008.00644
 
-[2] Bo Li, Jianyuan Ruan, Yu Zhang*, et al, 3D SLAM method based on improved regionalized
-Gaussian process map construction, 2020 International Conference on Guidance, Navigation and
-Control (ICGNC), 2020.
+[2] Bo Li, Jianyuan Ruan, Yu Zhang*, et al, 3D SLAM method based on improved regionalized Gaussian process map construction, 2020 International Conference on Guidance, Navigation and Control (ICGNC), 2020.
 
-[3] Jianyuan Ruan, Zhou Fang, Bo Li, et al, Evaluation of GP-SLAM in real-world
-environments, 2019 Chinese Automation Congress (CAC), 2019.
+[3] Jianyuan Ruan, Zhou Fang, Bo Li, et al, Evaluation of GP-SLAM in real-world environments, 2019 Chinese Automation Congress (CAC), 2019.
 
-[4] Bo li, Yingqiang Wang, Yu Zhang*, Wenjie Zhao, Jianyuan Ruan, Ping Li, GP-SLAM:
-Laser-based SLAM approach based on regionalized Gaussian process map reconstruction,
-Autonomous Robots, 2020.
+[4] Bo li, Yingqiang Wang, Yu Zhang*, Wenjie Zhao, Jianyuan Ruan, Ping Li, GP-SLAM: Laser-based SLAM approach based on regionalized Gaussian process map reconstruction, Autonomous Robots, 2020.
 
 # Projects
 ### 2D lidar SLAM based on Gaussian Process, 11/2018~10/2019. 
