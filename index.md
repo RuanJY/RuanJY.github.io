@@ -1,5 +1,5 @@
 # About Me
-Jianyuan Ruan
+Jianyuan Ruan（阮建源）
 
 Research assistant
 
