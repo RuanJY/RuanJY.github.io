@@ -1,13 +1,12 @@
 # About Me
 Jianyuan Ruan（阮建源）
 
-Research assistant
-
-Zhejiang University
+PhD student, HK PolyU
+ME. and BE. Zhejiang University
 
 Email: jy_ruan AT 163.com
 
-I am a researcher focus on robotics. Currently, I serve as a research assistant in the Sevil Lab in Control System Colleage(CSC) of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
+I am a researcher focus on robotics. Currently, I study in HongKong Polytechnic University. Before that, I served as a research assistant in the Sevil Lab in Control System Colleage(CSC) of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
 
 # Research Interests
 Robotics, SLAM, 3D reconstruction, UAV, Autonomous Driving
@@ -33,9 +32,6 @@ Target on overcoming different shortcomings of MAV, various MAV were built. Mult
 
 
 ## Awards
-
 Excellent Student Awards, 2016
-
 First Prize in China Aeromodelling Design Challenge, 2015
-
 Third Prize in “Zhongkong Cup” Robot competition of Zhejiang University, 2016
