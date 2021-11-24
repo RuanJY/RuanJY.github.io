@@ -13,7 +13,7 @@ I am a researcher focus on robotics. Currently, I study in HongKong Polytechnic 
 Robotics, SLAM, 3D reconstruction, UAV, Autonomous Driving
 
 # Publications
-[1] Jianyuan Ruan, Bo Li, Wang Yingqiang and Zhou Fan*, GP-SLAM+: real-time 3D lidar SLAM based on improved regionalized Gaussian process map reconstruction, accepted by 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. pre-print available at: https://arxiv.org/abs/2008.00644
+[1] Jianyuan Ruan, Bo Li, Wang Yingqiang and Zhou Fan*, GP-SLAM+: real-time 3D lidar SLAM based on improved regionalized Gaussian process map reconstruction, accepted by 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 
 [2] Bo Li, Jianyuan Ruan, Yu Zhang*, et al, 3D SLAM method based on improved regionalized Gaussian process map construction, 2020 International Conference on Guidance, Navigation and Control (ICGNC), 2020.
 
