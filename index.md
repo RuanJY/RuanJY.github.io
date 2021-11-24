@@ -2,6 +2,7 @@
 Jianyuan Ruan（阮建源）
 
 PhD student, HK PolyU
+
 ME. and BE. Zhejiang University
 
 Email: jy_ruan AT 163.com
@@ -33,5 +34,7 @@ Target on overcoming different shortcomings of MAV, various MAV were built. Mult
 
 ## Awards
 Excellent Student Awards, 2016
+
 First Prize in China Aeromodelling Design Challenge, 2015
+
 Third Prize in “Zhongkong Cup” Robot competition of Zhejiang University, 2016
