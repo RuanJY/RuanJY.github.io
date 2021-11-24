@@ -5,7 +5,7 @@ PhD student, HK PolyU
 
 ME. and BE. Zhejiang University
 
-Email: jy_ruan AT 163.com
+Email: jianyuan.ruan AT connect.polyu.hk
 
 I am a researcher focus on robotics. Currently, I study in HongKong Polytechnic University. Before that, I served as a research assistant in the Sevil Lab in Control System Colleage(CSC) of Zhejiang University. I received my Master's degree and Becholer degree from Zhejiang University in 2020 and 2017 respectively. 
 
